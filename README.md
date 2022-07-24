@@ -9,7 +9,7 @@ The points which I developed during my short period.
 - For the Favorite and Unfavorite features I implemented the SQLite database for that.
 - For offline app work is also implemented.
 - Search with a particular date too, but the date format must and should be YYYY-MM-DD.
-- Video loading was also implemented.
+- Video loading was also implemented. For the Video records some many time I tried but I couldn't get the video information from the NASA apod API. So for the Video record, I have added one manually static video URL and information for testing.
 - Even if the media type is video then I have given the expand option as well on that cell.
 - Other than that I have been take care of all the standards for the development phase.
 - Manage and see regarding the app smoothness, standard coding structure, etc.
